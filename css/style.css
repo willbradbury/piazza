@@ -83,6 +83,10 @@ header h1 a {
     padding-left: 25px;
 }
 
+.error-message {
+    color: #f00;
+}
+
 #wrapper {
     width: 1200px;
     height: 100%;
